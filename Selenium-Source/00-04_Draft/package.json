@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "psd": "npx mocha kouhochi-shosai.js --timeout 0",
+        "psl": "npx mocha kouhochi-ichiran.js --timeout 0"
+    }
+}
